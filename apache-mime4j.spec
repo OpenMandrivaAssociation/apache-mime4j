@@ -1,8 +1,9 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:           apache-mime4j
 Version:        0.7.2
-Release:        10%{?dist}
+Release:        10.1
 Summary:        Apache JAMES Mime4j
-Group:          Development/Libraries
+Group:          Development/Java
 License:        ASL 2.0
 URL:            http://james.apache.org/mime4j
 Source0:        http://apache.online.bg//james/mime4j/apache-mime4j-project-%{version}-source-release.zip
