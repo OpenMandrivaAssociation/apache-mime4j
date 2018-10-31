@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           apache-mime4j
 Version:        0.7.2
-Release:        10.2
+Release:        10.3
 Summary:        Apache JAMES Mime4j
 Group:          Development/Java
 License:        ASL 2.0
