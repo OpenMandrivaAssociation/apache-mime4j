@@ -5,7 +5,7 @@ Release:        10.3
 Summary:        Apache JAMES Mime4j
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://james.apache.org/mime4j
+URL:            https://james.apache.org/mime4j
 Source0:        http://apache.online.bg//james/mime4j/apache-mime4j-project-%{version}-source-release.zip
 BuildArch:      noarch
 
